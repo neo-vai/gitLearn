@@ -1,7 +1,7 @@
-#include main
+package main
 
 import "fmt"
 
 func main() {
-	fmt.Prinln("New code")
+	fmt.Println("New code")
 }
